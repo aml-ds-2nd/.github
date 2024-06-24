@@ -10,9 +10,9 @@ This project is to develop NOx emission prediction model using deep learning met
 |Member|Role|E-mail|Google Scholar|C.V.|
 |:-----------------:|:-------------:|:---------------:|:-------------:|:-------------:|
 |Cheoljeong Park|Team leader|pffiro@gmail.com|[site](https://scholar.google.co.kr/citations?user=w2KWhvIAAAAJ&hl=en)|[C.V.](https://incorpcj.notion.site/C-V-CheolJeong-Park-c27d08f2c3e04c86b832eab54dc70341)|
-|Changsung Kang|Member|-|[site]()|[C.V.]()|
-|Donghyeon Choi|Member|-|[site]()|[C.V.]()|
-|Sangho Yum|Member|-|[site]()|[C.V.]()|
+|Changseong Kang|Member|kangcs4467825@gmail.com|[site]()|[C.V.]()|
+|Donghyeon Choi|Member|ttcdh11@gmail.com|[site]()|[C.V.]()|
+|Sangho Yum|Member|yshceline99@gmail.com|[site]()|[C.V.]()|
 |Seong J. Cho|Advisor|scho@cnu.ac.kr|[site](https://scholar.google.co.kr/citations?user=fPkDoGsAAAAJ&hl=en)|[C.V.]()|
 
 </div>
